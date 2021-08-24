@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/daneZAS1K/Agile%20Planning/_apis/build/status/daneZAS1K.calculator?branchName=master)](https://dev.azure.com/daneZAS1K/Agile%20Planning/_build/latest?definitionId=3&branchName=master)
+
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
